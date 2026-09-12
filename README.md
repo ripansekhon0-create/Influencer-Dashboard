@@ -59,7 +59,6 @@ The data was prepared before creating the dashboard by:
 6. Connecting the prepared data to Power BI.
 
 ##  Dashboard Features
-<img width="1297" height="736" alt="Screenshot 2026-09-12 171400" src="https://github.com/user-attachments/assets/258cef52-bfd3-4cd9-ae35-c214371efe29" />
 
 The dashboard contains KPI cards and interactive visualizations for analyzing influencer marketing performance.
 
@@ -99,7 +98,7 @@ It provides a visual and data-driven approach to improve influencer selection, c
 
 ## Dashboard Preview
 
-Add your Power BI dashboard screenshot here:
+<img width="1297" height="736" alt="Screenshot 2026-09-12 171400" src="https://github.com/user-attachments/assets/c3cb00d1-9468-4b63-8a86-680a79f98e7e" />
 
 `![Starbucks Influencer Dashboard](dashboard.png)`
 
