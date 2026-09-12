@@ -1,5 +1,5 @@
- Influencer-Dashboard 
- Starbucks Influencer Analytics Dashboard
+
+ **Starbucks Influencer Analytics Dashboard**
 
 Project Overview
 
